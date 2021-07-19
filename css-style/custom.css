@@ -11,3 +11,9 @@
     padding:9px 25px;
     border:none; 
 }
+
+.heading-2{
+    font-weight: 500;
+    transition: 10s;
+    transform:rotate(360deg);
+}
